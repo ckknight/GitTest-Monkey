@@ -10,6 +10,11 @@ namespace Monkey
     {
         static void Main(string[] args)
         {
+            Hello();
+        }
+
+        private static void Hello()
+        {
             Console.WriteLine("Hello, world!");
         }
     }
