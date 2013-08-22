@@ -11,6 +11,7 @@ namespace Monkey
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, world!");
+            Console.WriteLine("I like bananas");
         }
     }
 }
