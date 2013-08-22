@@ -11,12 +11,12 @@ namespace Monkey
         static void Main(string[] args)
         {
             Hello();
+            Console.WriteLine("I like bananas");
         }
 
         private static void Hello()
         {
-            Console.WriteLine("Hello, world!");
-            Console.WriteLine("I like bananas");
+            Console.WriteLine("Goodbye, world!");
         }
     }
 }
